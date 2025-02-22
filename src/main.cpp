@@ -2,6 +2,8 @@
 
 int add(int a, int b);
 int subtract(int a, int b);
+int multiply(int a, int b);
+
 
 int main() {
 
@@ -10,6 +12,7 @@ int main() {
 
 	std::cout << "25 + 5 = " << add(a, b) << std::endl;
 	std::cout << "25 - 5 = " << subtract(a, b) << std::endl;
+	std::cout << "25 - 5 = " << multiply(a, b) << std::endl;
 
 	return 0;
 }
