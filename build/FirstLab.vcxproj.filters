@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Алиса\source\repos\aliisakas\misis2024s-24-02-kuzmenko-a-s\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Алиса\source\repos\aliisakas\misis2024s-24-02-kuzmenko-a-s\src\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Алиса\source\repos\aliisakas\misis2024s-24-02-kuzmenko-a-s\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3D88A705-6FA5-3CA4-A06F-13209CA30940}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
