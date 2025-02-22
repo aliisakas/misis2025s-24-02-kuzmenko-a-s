@@ -8,6 +8,7 @@ int main() {
 	int a{ 25 };
 	int b{ 5 };
 
+	std::cout << "let's do some math" << std::endl;
 	std::cout << "25 + 5 = " << add(a, b) << std::endl;
 	std::cout << "25 - 5 = " << subtract(a, b) << std::endl;
 
